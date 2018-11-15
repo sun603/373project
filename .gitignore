@@ -3,3 +3,7 @@
 *.swp
 
 README.html
+
+*.ipynb
+
+*.pdf
